@@ -22,7 +22,3 @@ This project simulates a rocket launch sequence with a countdown timer, demonstr
 2. **Execute**: Run the compiled program. Input the rocket’s name and countdown duration when prompted to see the countdown and launch sequence.
 
 This project provides practice with C++ class design, time management, and user interaction. It's a foundational example that can be expanded with more complex features and functionality.
-
----
-
-This description assumes familiarity with intermediate concepts while providing enough detail to understand the project and its components.
