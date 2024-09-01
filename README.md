@@ -3,6 +3,7 @@ This project simulates a rocket launch sequence, showcasing fundamental concepts
 
 Features
 Countdown Timer: A fully simulated countdown that introduces time delays and engages users in the launch process.
+/
 Ignition Sequence: An added ignition phase that simulates the rocket's engine starting, enhancing the realism of the launch process.
 Trajectory Calculation: Computes the rocket's altitude and distance over time based on user-defined initial values such as launch angle, velocity, and time steps.
 Failure Scenarios: Simulates potential failures during launch, such as engine malfunctions or guidance system errors.
