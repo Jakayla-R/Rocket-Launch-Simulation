@@ -1,4 +1,4 @@
-#Rocket-Launch-Simulation
+**Rocket-Launch-Simulation**
 
 This project simulates a rocket launch sequence, showcasing fundamental concepts in C++ such as classes, member functions, and time delays. The simulation now includes advanced features like trajectory calculations, ignition sequences, and user-defined initial parameters to create a more realistic rocket launch experience.
 
